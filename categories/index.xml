@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Road trippin&#39;</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Road trippin&#39;</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Rogier en Angelica Reedijk</copyright>
+    
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Vakantie</title>
+      <link>/categories/vakantie/</link>
+      <pubDate>Thu, 05 Sep 2013 03:15:49 +0200</pubDate>
+      
+      <guid>/categories/vakantie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wereld trip 2017</title>
+      <link>/categories/wereld-trip-2017/</link>
+      <pubDate>Fri, 08 Dec 2017 09:14:41 +0100</pubDate>
+      
+      <guid>/categories/wereld-trip-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
