@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/weblog/2019/02/01/disney-world-magic-kingdom/</loc>
+    <lastmod>2019-02-01T23:30:00+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/weblog/2019/01/31/disney-world-animal-kingdom/</loc>
     <lastmod>2019-01-31T23:30:00+01:00</lastmod>
   </url>
@@ -874,7 +879,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-01-31T23:30:00+01:00</lastmod>
+    <lastmod>2019-02-01T23:30:00+01:00</lastmod>
     <priority>0</priority>
   </url>
   
